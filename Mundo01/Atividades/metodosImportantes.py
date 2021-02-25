@@ -1,0 +1,13 @@
+n = input('Digite algo: ')
+
+print('Todas as letras são maiúsculas? ', n.isupper())
+print('Todas as letras são minúsculas? ', n.islower())
+print('Todos os caracteres são digitos? ', n.isdigit())
+print('A string é alpha-numeric? ', n.isalnum())
+print('Todos os caracteres são do alfabeto? ', n.isalpha())
+print('Todos os caracteres são decimais? ', n.isdecimal())
+print('A string é um identificador? ', n.isidentifier())
+print('Todos os caracteres são números? ', n.isnumeric())
+print('A string é um título? ', n.istitle())
+print('Os caracteres são imprimíveis? ', n.isprintable())
+print('Todos os caracteres são espaços em branco? ', n.isspace())
