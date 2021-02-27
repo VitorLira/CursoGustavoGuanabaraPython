@@ -3,4 +3,4 @@
 
 alt = float(input('Digite a altura em metros: '))
 lar = float(input('Digite a largura em metros: '))
-print(f'A area a ser pintada é igual a {alt*lar:.2f}m², vamos precisar de {(alt*lar)/2**2:.2f} litro de tinta.')
+print(f'A area a ser pintada é igual a {alt*lar:.1f}m², vamos precisar de {(alt*lar)/2:.2f} litro de tinta.')
