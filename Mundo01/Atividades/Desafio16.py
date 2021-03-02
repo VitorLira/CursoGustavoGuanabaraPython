@@ -1,0 +1,1 @@
+#Crie um programa que leia um número Real qualquer e mostre na tela a sua porção inteira. ex 6.127 -> 6
